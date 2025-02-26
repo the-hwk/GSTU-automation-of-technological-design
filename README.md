@@ -10,6 +10,8 @@
 
 В результате выполнения л.р. №1 у Вас должна получится следующая БД:
 
+(https://github.com/the-hwk/GSTU-automation-of-technological-design/blob/main/db-schema.svg)
+
 #### По задачам
 
 **Л.р. №1**
