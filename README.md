@@ -12,7 +12,7 @@
 
 ![db-schema](https://github.com/the-hwk/GSTU-automation-of-technological-design/blob/main/db-schema.svg)
 
-#### По задачам
+## По задачам
 
 #### Л.р. №1
 - спроектировать реляционную БД
